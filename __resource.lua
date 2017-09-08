@@ -22,4 +22,4 @@ data_file 'VEHICLE_METADATA_FILE' 'data/vehicles.meta'
 --data_file 'VEHICLE_SHOP_DLC_FILE' 'data/shop_vehicle.meta'
 
 
---client_script { 'client/vehicle_names.lua' }
+--client_script { 'client/vehicle_name.lua' }
